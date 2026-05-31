@@ -1,4 +1,4 @@
-# 🚀 Data Science Career Navigator
+# 🚀 Career Navigator
 
 An end-to-end Data Science Career Guidance Platform built using Python, MySQL, Machine Learning, NLP, and Streamlit.
 
