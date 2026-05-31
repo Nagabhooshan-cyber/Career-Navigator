@@ -1,0 +1,13 @@
+pandas
+numpy
+streamlit
+mysql-connector-python
+sqlalchemy
+scikit-learn
+xgboost
+spacy
+PyPDF2
+pdfplumber
+plotly
+joblib
+python-dotenv
